@@ -1,0 +1,48 @@
+{
+    "news": [
+        {
+            "id": "1",
+            "question": "Why do you need a qualification?",
+            "img": "../images/news_1.jpg",
+            "descrition": "In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum. Etiam eu purus nec eros varius luctus. Praesent finibus risus facilisis ultricies.",
+            "name": "Christian Smith",
+            "commints":"5",
+            "day":"20",
+            "month":"10"
+
+        },
+        {
+            "id": "2",
+            "question": "Our new courses just for you?",
+            "img": "../images/news_2.jpg",
+            "descrition": "In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum. Etiam eu purus nec eros varius luctus. Praesent finibus risus facilisis ultricies.",
+            "name": "Omar Alhato",
+            "commints":"9",
+            "day":"25",
+            "month":"4"
+
+        },
+        {
+            "id": "3",
+            "question": "Why take our graduate program??",
+            "img": "../images/news_3.jpg",
+            "descrition": "In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum. Etiam eu purus nec eros varius luctus. Praesent finibus risus facilisis ultricies.",
+            "name": "Ahmad ALi",
+            "commints":"7",
+            "day":"6",
+            "month":"8"
+
+        },
+        {
+            "id": "4",
+            "question": "Why do you need a Larning?",
+            "img": "../images/news_2.jpg",
+            "descrition": "In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum. Etiam eu purus nec eros varius luctus. Praesent finibus risus facilisis ultricies.",
+            "name": "Abdallah Mhammed",
+            "commints":"6",
+            "day":"9",
+            "month":"11"
+
+        }
+    ]
+}

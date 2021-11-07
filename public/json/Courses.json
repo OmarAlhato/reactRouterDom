@@ -1,0 +1,91 @@
+{
+    "courses": [
+        {
+            "id": "1",
+            "specialty": "A complete guide to design",
+            "skills": "Adobe Guide, Layes, Smart Objects etc...",
+            "img": "../images/course_1.jpg",
+            "imgperson": "../images/author.jpg",
+            "name": "Michael Smith",
+            "price":"50"
+
+        },
+        {
+            "id": "2",
+            "specialty": "Beginners guide to HTML",
+            "skills": "HTML AND CSS AND BOOTSTRAP",
+            "img": "../images/course_2.jpg",
+            "imgperson": "../images/teacher_2.jpg",
+            "name": "Omar  Alhato",
+            "price":"73"
+
+
+        },
+        {
+            "id": "3",
+            "specialty": "Beginners guide to JS",
+            "skills": "REACT JS AND REACT NATV",
+            "img": "../images/course_3.jpg",
+            "imgperson": "../images/teacher_1.jpg",
+            "name": "AbdAlrhman Ahmad",
+            "price":"74"
+
+
+        },
+        {
+            "id": "4",
+            "specialty": "Beginners guide to RECAT",
+            "skills": "REACTJS AND REACTNODV",
+            "img": "../images/course_4.jpg",
+            "imgperson": "../images/teacher_4.jpg",
+            "name": "Abd Mhmmed",
+            "price":"30"
+
+
+        },
+        {
+            "id": "5",
+            "specialty": "Beginners guide to PHP",
+            "skills": "MYSQL AND PHP AND LARVAL",
+            "img": "../images/course_5.jpg",
+            "imgperson": "../images/teacher_3.jpg",
+            "name": "Michael Smith",
+            "price":"70"
+
+
+        },
+        {
+            "id": "6",
+            "specialty": "Beginners guide to DB",
+            "skills": "MYSQL AND SQLSERVR",
+            "img": "../images/course_6.jpg",
+            "imgperson": "../images/teacher_4.jpg",
+            "name": "Mhmmad Smith",
+            "price":"65"
+
+
+        },
+        {
+            "id": "7",
+            "specialty": "Beginners guide to CSS",
+            "skills": "CSS AND CSS3",
+            "img": "../images/course_7.jpg",
+            "imgperson": "../images/teacher_2.jpg",
+            "name": "Michael Asaa",
+            "price":"19"
+
+
+        },
+        {
+            "id": "8",
+            "specialty": "Beginners guide to QUERY",
+            "skills": "JS AND QUERY",
+            "img": "../images/course_8.jpg",
+            "imgperson": "../images/teacher_3.jpg",
+            "name": "Whaled Smith",
+            "price":"75"
+
+
+        }
+    ]
+}

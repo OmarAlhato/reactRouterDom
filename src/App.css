@@ -2,24 +2,7 @@
     color: red;
     font-size: 100px;
     margin-top: 300px;
+    margin-bottom: 300px;
     text-align: center;
     
-}
-.Buttonchang{
-    background-color: rgba(14, 126, 4, 0.603);
-
-    border: none;
-    margin-bottom: 50px;
-    color: rgb(255, 255, 255);
-    font-size: 25px;
-}
-
-.Buttonchang:hover{
-    background-color: rgba(14, 126, 4, 0.726);
-
-    border: none;
-    margin-bottom: 50px;
-    color: rgb(255, 255, 255);
-    font-size: 25px;
-
 }

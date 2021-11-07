@@ -1,0 +1,46 @@
+{
+    "services": [
+        {
+            "id": "1",
+            "img": "../images/earth-globe.svg",
+            "name": "Online Courses",
+            "details": "In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum."
+
+        },
+        {
+            "id": "2",
+            "img": "../images/exam.svg",
+            "name": "Indoor Courses",
+            "details": "In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum."
+
+        },
+        {
+            "id": "3",
+            "img": "../images/books.svg",
+            "name": "Amazing Library",
+            "details": "In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum."
+
+        },
+        {
+            "id": "4",
+            "img": "../images/professor.svg",
+            "name": "Exceptional Professors",
+            "details": "In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum."
+
+        },
+        {
+            "id": "5",
+            "img": "../images/blackboard.svg",
+            "name": "Top Programs",
+            "details": "In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum."
+
+        },
+        {
+            "id": "6",
+            "img": "../images/mortarboard.svg",
+            "name": "Amazing Library",
+            "details": "In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum."
+
+        }
+    ]
+}
